@@ -1,14 +1,14 @@
 {
-  "name": "FunaTrace",
-  "short_name": "FunaTrace",
-  "description": "Find any house address in Sh. Funadhoo with pinpoint accuracy using FunaTrace.",
-  "start_url": "/funatrace/index.html",
+  "name": "utheemtrace",
+  "short_name": "utheemtrace",
+  "description": "Find any house address in Sh. Funadhoo with pinpoint accuracy using utheemtrace.",
+  "start_url": "/utheemtrace/index.html",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#00bcd4",
   "theme_color": "#00bcd4",
   "lang": "en",
-  "scope": "/funatrace/",
+  "scope": "/utheemtrace/",
   "icons": [
     {
       "src": "ft_logo.png",
