@@ -1,12 +1,12 @@
-const CACHE_NAME = "funatrace-cache-v1";
+const CACHE_NAME = "utheemtrace-cache-v1";
 const urlsToCache = [
-  "/funatrace/",
-  "/funatrace/index.html",
-  "/funatrace/style.css",
-  "/funatrace/app.js",
-  "/funatrace/install.js",
-  "/funatrace/ft_logo.png",
-  "/funatrace/manifest.json"
+  "/utheemtrace/",
+  "/utheemtrace/index.html",
+  "/utheemtrace/style.css",
+  "/utheemtrace/app.js",
+  "/utheemtrace/install.js",
+  "/utheemtrace/ft_logo.png",
+  "/utheemtrace/manifest.json"
 ];
 
 self.addEventListener("install", (event) => {
